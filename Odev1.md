@@ -5,8 +5,8 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 10-D   | Yusuf Baran Gündoğdu | 368
-10-D   | Heval Gündoğdu       | 111
-10-D   | Yaren Nisa Atci      | 111
+10-D   | Heval Gündoğdu       | 464
+10-D   | Yaren Nisa Atci      | 444
 
 #  (WET AND DARK(Islak ve Koyu) )
 ## Özet
